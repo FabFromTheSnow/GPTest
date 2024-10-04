@@ -1,4 +1,6 @@
 GPT and Google collab environment enumeration
+#
+#
            ___
        .-'`   `'-.
    _,.'.===   ===.'.,_
